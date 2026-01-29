@@ -1,0 +1,3 @@
+[AI_TIMING] Step=RetrieveDocuments Duration=2.10s
+[AI_TIMING] Step=BuildPrompt Duration=0.42s
+[AI_TIM
