@@ -1,0 +1,5 @@
+{
+  "ModelName": "gpt-4",
+  "MaxTokens": 4096,
+  "EnableGroundingCheck": true
+}
